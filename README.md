@@ -9,5 +9,7 @@ I build foundational tools for mathematical optimization and machine learning.
 
 I'm best reached via [email](mailto:akshayka@cs.stanford.edu). I'm always open to interesting conversations.
 
+[![Twitter Follow](https://img.shields.io/twitter/follow/akshaykagrawal?label=Follow&style=social)](https://twitter.com/akshaykagrawal)
+
 <!--
 **akshayka/akshayka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
